@@ -1,0 +1,13 @@
+{
+    "name": "nathalyPozadas/lib-n",
+    "description": "Probando",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "nathalyPozadas\\lib-n\\":"src/"
+        }
+    }
+}
